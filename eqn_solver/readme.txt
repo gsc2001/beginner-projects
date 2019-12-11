@@ -6,7 +6,7 @@ Then  enter n equations
 You will get the solution for all variable 
 
                             Caution::
-        This program will run if you enter int coefficients only and
+        This program will run only if you enter int coefficients only and
         single charachter variables 'variable name cant be a no.'
         All the variables should be on LHS and RHS should be only
         positive integer constant.
@@ -22,6 +22,17 @@ You will get the solution for all variable
 
    Correct way
       x-y=2
+
+To run on windows
+  Download and run exe file
+
+
+To run on linux
+  1.Downloag bash file
+  2.Open Download folder in terminal and type foll commands
+          chmod 777 eqnsolver-linux-bash-file
+          ./eqnsolver-linux-bash-file
+         
 
 Thank you for viewing 
 
