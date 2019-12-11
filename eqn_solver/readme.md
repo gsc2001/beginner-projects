@@ -13,23 +13,27 @@ You will get the solution for all variable
 
 
 
-  eg. of inputing eqns
-        Incorrect ways 
-          y-x=-2
-          y=x-2
-          0.5x-0.5y=1
+  Eg. of inputing eqns    
+    
+    Incorrect ways     
+         1. y-x=-2
+         2. y=x-2
+         3. 0.5x-0.5y=1
 
-
-   Correct way
-      x-y=2
+      Correct way
+          x-y=2
 
 To run on windows
+  
   Download and run exe file
 
 
 To run on linux
+  
   1.Downloag bash file
+  
   2.Open Download folder in terminal and type foll commands
+          
           chmod 777 eqnsolver-linux-bash-file
           ./eqnsolver-linux-bash-file
          
