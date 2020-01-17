@@ -11,7 +11,7 @@ TilL now i have created the following
   
   2.A K-Map solver in c++
   
-  3.A holywood-bolywood game(kind of noob..dont judge me on this i created this when i was in class 11) (not added yet)
+  3.A blackjack card game in python
     
 
  Thank you for seeing my projects
